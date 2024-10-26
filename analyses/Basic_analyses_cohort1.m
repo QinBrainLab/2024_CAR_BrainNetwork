@@ -1,4 +1,4 @@
-%% revision analysis
+%% addpath
 addpath(genpath('E:\MGZ_dynamics_project\HMM-MAR\HMM-MAR-master'))
 addpath(genpath('E:\DST_multitask\functions'))
 
