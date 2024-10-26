@@ -1,7 +1,9 @@
 # ComCom
-Complexity and Computation: A small toolbox for examining neural data
+Please see original repository in https://github.com/wesleypclawson/ComCom
 
-Current being updated as the paper based on these tools is being written and reviewed. All files are currently in MATLAB, but will be translated to python in the near future. 
+We implemenetd this toolbox transition complexity calculation
 
 
-How this code is being currenltly being used: https://www.biorxiv.org/content/10.1101/513424v2
+How this code is being currenltly being used: (https://www.science.org/doi/10.1126/sciadv.aax4843)
+
+Reference:Clawson, W., A. F. Vicente, M. Ferraris, C. Bernard, D. Battaglia and P. P. Quilichini (2019). "Computing hubs in the hippocampus and cortex." Science Advances 5(6): eaax4843.
