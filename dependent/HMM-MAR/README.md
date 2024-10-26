@@ -1,12 +1,8 @@
-UPDATING TO THE LATEST VERSION IS STRONGLY RECOMMENDED, DUE TO AN ERROR THAT WAS INTRODUCED AT THE END OF JANUARY 2021, AND CLANED AT THE END OF MARCH 2021.
 
 **HMM-MAR**
+We used HMM-MAR toolbox to train Hidden Markov Model in current study, please see the original repository for more information: https://github.com/OHBA-analysis/HMM-MAR.
 
 Please check the Wiki for the latest documentation, including some basic introduction to the method. If you have issues of questions, it is possible to email us, but please better use the Issues tab on github, so that others can see the response as well.
-
-Note: the name of the toolbox is mantained only for historical reasons, and currently contains other observation models other than the multivariate autoregressive model (MAR).
-
-The example scripts provide some basic demonstration of the toolbox functionality. The script examples/run_HMMMAR.m is a template script that specifies some basic options depending on the specified data modality and, provided that the user has already loaded the data in the right format (see the script for details), runs the HMM-MAR and gets some basic information out of the estimation. The script examples/run_HMMMAR_2.m is a template script that generates some random (putatively fMRI) data under two different conditions, estimates the HMM for a number of different configurations, does permutation testing to test the results against the conditions, and plots the results.
 
 Under _examples/_, there are scripts demonstrating the analysis conducted for some of the papers
 
