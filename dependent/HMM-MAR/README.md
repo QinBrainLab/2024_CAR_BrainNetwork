@@ -1,6 +1,6 @@
+We used HMM-MAR toolbox to train Hidden Markov Model in current study, please see the original repository for more information: https://github.com/OHBA-analysis/HMM-MAR.
 
 **HMM-MAR**
-We used HMM-MAR toolbox to train Hidden Markov Model in current study, please see the original repository for more information: https://github.com/OHBA-analysis/HMM-MAR.
 
 Please check the Wiki for the latest documentation, including some basic introduction to the method. If you have issues of questions, it is possible to email us, but please better use the Issues tab on github, so that others can see the response as well.
 
